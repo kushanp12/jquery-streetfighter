@@ -27,23 +27,23 @@ body {
 }
 
 .ryu-ready {
-	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-ready-position.gif');
+	background-image: url('https://dl.dropboxusercontent.com/u/263968982/ryu-ready-position.gif');
 }
 
 .ryu-still {
-	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-standing-still.png');
+	background-image: url('https://dl.dropboxusercontent.com/u/263968982/ryu-standing-still.png');
 }
 
 .ryu-throwing{
-	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-throwing-hadouken.png');
+	background-image: url('https://dl.dropboxusercontent.com/u/263968982/ryu-throwing-hadouken.png');
 }
 
 .ryu-cool{
-	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-cool.gif');
+	background-image: url('https://dl.dropboxusercontent.com/u/263968982/ryu-cool.gif');
 }
 
 .hadouken {
-	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/hadouken.gif');
+	background-image: url('https://dl.dropboxusercontent.com/u/263968982/hadouken.gif');
 	
 	width: 156px;
 	
