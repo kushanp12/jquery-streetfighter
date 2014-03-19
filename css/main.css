@@ -1,0 +1,99 @@
+body {
+	background-color: black;
+}
+
+.main {
+	background-color: white;
+	
+	margin-top: 110px;
+	
+	padding-left: 100px;
+	
+	min-width: 1200px;
+	
+	height: 500px;
+	
+	border: 1px solid red;
+}
+
+.ryu, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
+	width: 659px;
+	
+	height: 494px;
+}
+
+.ryu-ready, .ryu-throwing, .ryu-cool {
+	display: none;
+}
+
+.ryu-ready {
+	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-ready-position.gif');
+}
+
+.ryu-still {
+	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-standing-still.png');
+}
+
+.ryu-throwing{
+	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-throwing-hadouken.png');
+}
+
+.ryu-cool{
+	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/ryu-cool.gif');
+}
+
+.hadouken {
+	background-image: url('file:///C:/Users/blude_000/Documents/GitHub/jquery-streetfighter/images/hadouken.gif');
+	
+	width: 156px;
+	
+	height: 90px;
+	
+	display: none;
+	
+	position: relative;
+	
+	top: 167px;
+	
+	left: 569px;
+	
+	float: left;
+}
+
+.hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
+	background-repeat: none;
+}
+
+.instructions {
+	display: inline-block;
+	
+	position: absolute;
+	
+	right: 100px;
+	
+	bottom: 230px;
+	
+	font-size: 20px;
+	
+	font-family: comic-sans ms, cursive, sans-serif;
+}
+
+.logo {
+	display: inline-block;
+
+	position: absolute;
+	right: 300px;
+	bottom: 460px;
+	color: red;
+	font-size: 34px;
+
+	font-family: cursive;
+}
+
+span {
+	color: #33CCCC;
+}
+
+h1 {
+	color: red;
+}
