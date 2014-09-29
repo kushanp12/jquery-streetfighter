@@ -15,11 +15,11 @@ $(document).ready(function(){
 		$('.ryu-throwing').show();
 		$('.hadouken').finish().show()
 		.animate(
-			{'left': '1200px'},
+			{'left': '1100px'},
 			500,
 			function(){
 				$(this).hide();
-				$(this).css('left', '969px'; 'opacity', '0.1');
+				$(this).css('left', '569px', 'opacity', '0.1');
 			}
 		);
 	})
